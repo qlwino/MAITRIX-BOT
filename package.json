@@ -1,0 +1,16 @@
+{
+  "name": "maitrix-bot",
+  "version": "1.0.0",
+  "description": "Maitrix Bot - Auto Task Script",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "chalk": "^4.1.2",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.12.2",
+    "ora": "^7.0.1"
+  }
+}
