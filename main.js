@@ -277,7 +277,7 @@ async function stakeOperation(wallet, tokenToStakeSymbol, stakeContractAddress) 
     }
 }
 
-// claimAllFaucets (with Telegram notify before request)
+// claimAllFaucets 
 async function claimAllFaucets(address) {
 
 
